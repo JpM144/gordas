@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 600px;
+    margin: auto;
+    
+}
+
+.dropdown{
+    text-align: center;
+}
+
+.container img{
+  height: 400px;
+  width: 70vh;
+  padding-left: 40px;
+}
+button{
+     margin-top: 15px;
+    font-family: 'Poppins',sans-serif;
+    border: 1px solid #9c9c9c;
+    width: 100%;
+    background-color: #fff;
+}
+
+video{
+    padding-left: 40px;
+}
